@@ -3,7 +3,7 @@
 🎯 Front-End Developer | HTML • CSS • Bootstrap • JavaScript  
 🌱 Currently learning VueJS and building awesome UIs  
 💼 Open to freelance and collaborative projects  
-📫 Reach me: [angelotheslayer@gmail.com](mailto:email@example.com)
+📫 Reach me: [inbox](mailto:angelotheslayer@gmail.com)
 
 ## 🔧 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
