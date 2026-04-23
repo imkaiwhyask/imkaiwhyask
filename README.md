@@ -3,7 +3,7 @@
 🖥️ I build clean UIs by day and manage infrastructure behind the scenes
 🌱 Currently learning VueJS, cloud fundamentals, and CI/CD workflows
 💼 Open to freelance, collaboration, and learning opportunities
-📫 Reach me: [inbox](mailto:angelotheslayer@gmail.com) · GitHub: [@imkaiwhyask](https://github.com/imkaiwhyask)
+📫 Reach me: [inbox](mailto:kaiangelo017@gmail.com) · GitHub: [@imkaiwhyask](https://github.com/imkaiwhyask)
 
 ---
 
