@@ -24,6 +24,7 @@ I wear two hats — I design and build frontend interfaces, and I also manage th
 
 ### Backend / Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat&logo=plotly&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Systems & Infrastructure
