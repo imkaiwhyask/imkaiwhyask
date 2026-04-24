@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Kai Angelo
 🎯 Front-End Developer | Systems Engineer | DevOps Enthusiast
 🖥️ I build clean UIs by day and manage infrastructure behind the scenes
-🌱 Currently learning VueJS, cloud fundamentals, and CI/CD workflows
-💼 Open to freelance, collaboration, and learning opportunities
+🌱 Currently learning VueJS, cloud fundamentals and CI/CD workflows
+💼 Open to freelance, collaboration and learning opportunities
 📫 Reach me: [inbox](mailto:kaiangelo017@gmail.com) · GitHub: [@imkaiwhyask](https://github.com/imkaiwhyask)
 
 ---
 
 ## 🧠 About Me
 
-I wear two hats — I design and build frontend interfaces, and I also manage the systems that run underneath them. As a **Systems Engineer**, I handle Active Directory, VMware vSphere infrastructure, FortiGate networking, and a full server environment including SIEM, identity sync, and storage. As a **Front-End Developer**, I focus on clean UI, interactive web apps, and gradually moving toward full-stack and DevOps territory.
+I wear two hats — I design and build frontend interfaces and I also manage the systems that run underneath them. As a **Systems Engineer**, I handle Active Directory, VMware vSphere infrastructure, FortiGate networking and a full server environment including SIEM, identity sync and storage. As a **Front-End Developer**, I focus on clean UI, interactive web apps and gradually moving toward full-stack and DevOps territory.
 
 ---
 
