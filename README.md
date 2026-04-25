@@ -26,6 +26,10 @@ I wear two hats — I design and build frontend interfaces and I also manage the
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat&logo=plotly&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Desktop
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 ### Systems & Infrastructure
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
@@ -45,6 +49,7 @@ I wear two hats — I design and build frontend interfaces and I also manage the
 
 ## 🚀 What I'm Working On
 - 🖼️ Building frontend projects and UI systems
+- 🖥️ Developing **[Phantix](https://github.com/imkaiwhyask/phantix)** — an internal messaging desktop app built with Electron, PHP, MySQL and Docker
 - ⚙️ Managing and expanding IT infrastructure (Active Directory, VMware vSphere, FortiGate networking)
 - 🔐 Deploying and tuning SIEM with Wazuh + Grafana for security monitoring and visualization
 - 🔑 Rolling out hybrid identity with Microsoft Entra Connect (M365 ↔ AD sync)
